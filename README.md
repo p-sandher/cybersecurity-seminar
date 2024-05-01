@@ -1,4 +1,4 @@
-# Cybersecurity Seminar Project Scope
+# TD Cybersecurity Seminar  
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -30,7 +30,7 @@
     <img src="puneet-sandher-logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">Instagram Trend Analyzer</h3>
+<h3 align="center">TD Cybersecurity Seminar</h3>
 
   <p align="center">
     <br />
